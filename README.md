@@ -17,7 +17,7 @@ Aplicação Web que desenvolvi para disciplina de HTML/CSS/Javascript +Devs2Blu 
 <br>
 
 <p align="center">
-   <img alt="movie-list-mvc" src="https://github.com/NeoJhonn/zip-codes-api/blob/main/.github/screenshot.png"
+   <img alt="movie-list-mvc" src="https://github.com/NeoJhonn/countries-api/blob/main/.github/screenshot.png"
   width="70%">
 </p>
 

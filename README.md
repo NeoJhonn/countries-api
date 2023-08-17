@@ -1,6 +1,3 @@
-# countries-api
-# 
-
 <h1 align="center"> Countries API </h1>
 
 <p align="center">
